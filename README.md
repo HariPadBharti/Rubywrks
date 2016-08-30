@@ -11,6 +11,6 @@ $ gem install rspec-its
 
 then 
 
-$rspec
+$rspec  #Acts like validator to test cases.
 
 to test the code, all cases satisfied, solution found!
